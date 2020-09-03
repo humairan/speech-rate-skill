@@ -2,7 +2,7 @@
 Changes the rate at which mimic tts responds to users
 
 ## About
-Updates "duration_stretc
+Updates "duration_stretch" value in mycroft configuration settings to slow down or speed up the rate at which mimic outputs each word
 
 ## Examples
 * "Make rate fast"
